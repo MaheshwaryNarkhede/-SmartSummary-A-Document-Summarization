@@ -1,0 +1,6 @@
+__pycache__/
+.env
+.DS_Store
+temp_files/
+data/
+LaMini-Flan-T5-248M
